@@ -1,4 +1,4 @@
-.Phony: lint test package ci
+.PHONY: lint test package ci
 
 lint:
 	npm run lint
